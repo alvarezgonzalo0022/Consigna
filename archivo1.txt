@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola
 
 Si todo Bien y vos?
+=======
+Hola, ¿Todo bien?
+>>>>>>> 6e90922d5eb3218395629ab937fe13e6ded3f433
